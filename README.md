@@ -24,7 +24,7 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-Hi there! I'm **Afzal Chohan** 👋 — a passionate **AI Student** and **Python Developer** from Pakistan, currently in my **2nd year of Bachelor's in Artificial Intelligence** at Aror University of Art, Architecture, Design & Heritage, Sukkur. I'm on a mission to become a skilled **AI Engineer**, specializing in Machine Learning, Deep Learning, Generative AI, and Computer Vision — and I'm currently gaining hands-on industry experience as an **AI Intern at United Bank Limited (UBL)**.
+Hi there! I'm **Afzal Chohan** 👋 — a passionate **AI Student** and **Python Developer** from Pakistan, currently in my **2nd year of Bachelor's in Artificial Intelligence** at Aror University of Art, Architecture, Design & Heritage, Sukkur. I'm on a mission to become a skilled **AI Engineer**, specializing in Machine Learning, Deep Learning, Generative AI, and Computer Vision .
 
 <br/>
 
