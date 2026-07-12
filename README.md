@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Afzal Chohan 👋</h1>
+<h1 align="center">Hi there, I'm Ali Afzal Chohan 👋</h1>
 
 <h3 align="center">🤖 AI Student • Python Developer • Future AI Engineer</h3>
 
