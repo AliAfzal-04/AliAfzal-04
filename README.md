@@ -1,180 +1,268 @@
-<h1 align="center">Hi there, I'm Ali Afzal Chohan 👋</h1>
+<div align="center">
 
-<h3 align="center">🤖 AI Student • Python Developer • Future AI Engineer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Afzal%20Chohan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Python%20Developer%20%7C%20Future%20AI%20Engineer&descAlignY=58&descSize=20"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Student-Aror%20University-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-orange?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%A4%96+AI+Student+%7C+Python+Developer;%F0%9F%9A%80+Future+AI+Engineer;%F0%9F%A7%A0+Learning+ML+%7C+DL+%7C+GenAI+%7C+Computer+Vision" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AfzalChohan&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/AfzalChohan?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/AfzalChohan?style=for-the-badge&color=yellow" />
-</p>
+<br/>
 
----
+[![GitHub followers](https://img.shields.io/github/followers/aliafzalchohan?label=Follow&style=for-the-badge&color=6366f1&logo=github)](https://github.com/aliafzalchohan)
+[![Profile Views](https://komarev.com/ghpvc/?username=aliafzalchohan&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aliafzalchohan)
+[![GitHub Stars](https://img.shields.io/github/stars/aliafzalchohan?style=for-the-badge&color=facc15&logo=github)](https://github.com/aliafzalchohan)
 
-## 🚀 About Me
-
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🎓 **2nd-Year Bachelor of Artificial Intelligence Student**
-- 🏫 **Aror University of Art, Architecture, Design & Heritage, Sukkur**
-- 📍 **Pakistan**
-- 🔭 Currently building **Java, C++ & AI Projects**
-- 🌱 Learning **Machine Learning, Deep Learning & Generative AI**
-- 🤝 Open to **AI/ML Internship Opportunities**
-- 💬 Ask me about **Python, C++, Java, OOP & GitHub**
-- 🎯 Goal: **Become a professional AI Engineer**
-- ⚡ Fun fact: **Every line of code is a step toward a smarter world**
-
-<br clear="right"/>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/afzal-chohan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AfzalChohan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💻 Technical Skills
-
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-### Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🏫 University Management System
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=flat-square)
-![Console App](https://img.shields.io/badge/Console%20App-181717?style=flat-square)
-
-A console-based University Management System built in **C++** that manages student records, faculty information, courses, and administrative operations using **Object-Oriented Programming** concepts.
-
----
-
-### 🍽️ Campus Bite
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Food Ordering](https://img.shields.io/badge/Food%20Ordering-00D9FF?style=flat-square)
-![Campus App](https://img.shields.io/badge/Campus%20App-7C3AED?style=flat-square)
-
-A **Java-based** campus food ordering system that allows students to browse menus, place orders, and manage campus dining services through an intuitive interface.
-
----
-
-## 🎯 Learning Roadmap
-
-```text
-✅  Python Programming            ████████████████████  Done
-✅  Object-Oriented Programming   ████████████████████  Done
-✅  Git & GitHub Basics           ████████████████████  Done
-🔄  Data Structures & Algorithms  ██████████░░░░░░░░░░  In Progress
-🔄  Machine Learning              ████░░░░░░░░░░░░░░░░  In Progress
-🔄  Deep Learning                 ██░░░░░░░░░░░░░░░░░░  Starting
-🎯  Generative AI                 ░░░░░░░░░░░░░░░░░░░░  Upcoming
-🎯  MLOps                         ░░░░░░░░░░░░░░░░░░░░  Upcoming
-🏁  AI Engineer                   ░░░░░░░░░░░░░░░░░░░░  Goal
-```
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfzalChohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AfzalChohan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalChohan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AfzalChohan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfzalChohan&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## ✨ Career Goals
-
-| 🎯 Goal | 📌 Status |
-|:--------|:----------|
-| Become an AI Engineer | 🔄 In Progress |
-| Build AI-powered Applications | 🔄 Building |
-| Contribute to Open Source | 🎯 Upcoming |
-| Gain Internship Experience | 🔍 Actively Looking |
-| Master Deep Learning | 📚 Learning |
-
----
-
-## 💡 Quote
-
-> *"The question of whether a machine can think is no more interesting than the question of whether a submarine can swim."*
->
-> — **Edsger W. Dijkstra**
-
----
+</div>
 
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
+### 📍 Sukkur, Pakistan &nbsp;|&nbsp; 🎓 Aror University of Art, Architecture, Design & Heritage &nbsp;|&nbsp; 💼 AI Intern @ United Bank Limited (UBL)
 
-**Always Learning • Always Building • Always Improving**
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧠 About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+```python
+class AfzalChohan:
+    def __init__(self):
+        self.name = "Afzal Chohan"
+        self.role = "Aspiring AI Engineer"
+        self.location = "Pakistan 🇵🇰"
+        self.education = "2nd-Year BS Artificial Intelligence"
+        self.university = "Aror University of Art, Architecture, Design & Heritage, Sukkur"
+        self.internship = "AI Intern @ United Bank Limited (UBL)"
+        self.currently_learning = [
+            "Machine Learning", "Deep Learning",
+            "Generative AI", "Computer Vision"
+        ]
+
+    def goals(self):
+        return "Become an AI Engineer specializing in ML, DL, GenAI & CV 🚀"
+
+    def status(self):
+        return "Open to AI/ML Internship Opportunities ✅"
+```
+
+- 🔭 Passionate **AI Student** & **Python Developer**
+- 🌱 Learning **Machine Learning**, **Deep Learning** & **Generative AI**
+- 👁️ Interested in **Computer Vision**
+- 🛠️ Building real-world **AI Projects**
+- 💼 Currently interning as an **AI Intern at UBL**
+- 🤝 Open to **AI/ML Internship Opportunities**
+- 💡 Love solving real-world problems using **AI**
+- 📚 Believe in **continuous learning**
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css&theme=dark" />
+
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+### 🧬 AI & Data Science
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<sub>🔄 TensorFlow & PyTorch — <b>currently learning</b></sub>
+
+### 📖 Currently Learning
+<img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-EC4899?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-10B981?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-F59E0B?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-3B82F6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-EF4444?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 University Management System
+**Tech Stack:** C++ · OOP
+
+A complete university management system for handling students, teachers, departments, and academic records — built using strong Object-Oriented Programming principles.
+
+`#C++` `#OOP` `#DataStructures`
+
+</td>
+<td width="50%">
+
+### 🍔 Campus Bite
+**Tech Stack:** Java
+
+A Java-based campus food ordering application where students can browse menus, place orders, and manage food services seamlessly.
+
+`#Java` `#OOP` `#FoodTech`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI Project #1 *(Coming Soon)*
+**Tech Stack:** Python · Machine Learning
+
+🚧 An upcoming Machine Learning project — stay tuned!
+
+`#Python` `#MachineLearning`
+
+</td>
+<td width="50%">
+
+### 🧠 AI Project #2 *(Coming Soon)*
+**Tech Stack:** Python · Deep Learning · Computer Vision
+
+🚧 An upcoming Computer Vision / Deep Learning project in progress.
+
+`#DeepLearning` `#ComputerVision`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>✨ More AI/ML projects are on the way — this section is constantly evolving!</sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliafzalchohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliafzalchohan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliafzalchohan&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliafzalchohan&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aliafzalchohan&theme=darkhub&no-frame=true&row=1&column=7" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🗺️ My AI Engineering Roadmap
+
+<div align="center">
+
+| Stage | Skill | Status |
+|:---:|:---:|:---:|
+| 1️⃣ | Python | ✅ Done |
+| 2️⃣ | OOP | ✅ Done |
+| 3️⃣ | Git & GitHub | ✅ Done |
+| 4️⃣ | Data Structures & Algorithms | 🔄 In Progress |
+| 5️⃣ | Machine Learning | 🔄 In Progress |
+| 6️⃣ | Deep Learning | 🔄 In Progress |
+| 7️⃣ | Computer Vision | 🎯 Planned |
+| 8️⃣ | Generative AI | 🎯 Planned |
+| 9️⃣ | MLOps | 🎯 Planned |
+| 🔟 | **AI Engineer** | 🏆 Ultimate Goal |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📜 Certifications
+
+<div align="center">
+
+🏅 **Google AI Essentials**
+🏅 **Prompt Engineering**
+🏅 **Generative AI**
+🏅 **ChatGPT**
+🏅 **Microsoft Copilot**
+🏅 **AI Productivity Tools**
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🌟 Achievements
+
+<div align="center">
+
+| 🏆 Hackathons | 🌍 Open Source | 🔬 Research | 🥇 Competitions | 💼 Internships |
+|:---:|:---:|:---:|:---:|:---:|
+| Coming Soon 🚧 | Coming Soon 🚧 | Coming Soon 🚧 | Coming Soon 🚧 |  Coming Soon 🚧 | 
+
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-afzal-chohan07b414/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aliafzal122/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ali__afzal___22/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afzalchohan04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliafzalchohan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## 💬 Quote
+
+> ### *"The best way to predict the future is to build the intelligence that shapes it."*
+> — **Afzal Chohan**
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+
+### ⚡ Always Learning • Always Building • Always Improving 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+the+future+with+AI+%F0%9F%A4%96" />
 
 </div>
