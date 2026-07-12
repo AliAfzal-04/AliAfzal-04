@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ali Afzal%20Chohan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Python%20Developer%20%7C%20Future%20AI%20Engineer&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Afzal%20Chohan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Python%20Developer%20%7C%20Future%20AI%20Engineer&descAlignY=58&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%A4%96+AI+Student+%7C+Python+Developer;%F0%9F%9A%80+Future+AI+Engineer;%F0%9F%A7%A0+Learning+ML+%7C+DL+%7C+GenAI+%7C+Computer+Vision" alt="Typing SVG" />
 
