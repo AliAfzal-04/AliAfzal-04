@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 📍 Sukkur, Pakistan &nbsp;|&nbsp; 🎓 Aror University of Art, Architecture, Design & Heritage &nbsp;|&nbsp; 💼
+### 📍 Sukkur, Pakistan &nbsp;|&nbsp; 🎓 Aror University of Art, Architecture, Design & Heritage &nbsp;|&nbsp; 💼 AI Intern @ United Bank Limited (UBL)
 
 </div>
 
@@ -24,26 +24,9 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-```python
-class AfzalChohan:
-    def __init__(self):
-        self.name = "Afzal Chohan"
-        self.role = "Aspiring AI Engineer"
-        self.location = "Pakistan 🇵🇰"
-        self.education = "2nd-Year BS Artificial Intelligence"
-        self.university = "Aror University of Art, Architecture, Design & Heritage, Sukkur"
-        self.internship = "AI Intern @ United Bank Limited (UBL)"
-        self.currently_learning = [
-            "Machine Learning", "Deep Learning",
-            "Generative AI", "Computer Vision"
-        ]
+Hi there! I'm **Afzal Chohan** 👋 — a passionate **AI Student** and **Python Developer** from Pakistan, currently in my **2nd year of Bachelor's in Artificial Intelligence** at Aror University of Art, Architecture, Design & Heritage, Sukkur. I'm on a mission to become a skilled **AI Engineer**, specializing in Machine Learning, Deep Learning, Generative AI, and Computer Vision — and I'm currently gaining hands-on industry experience as an **AI Intern at United Bank Limited (UBL)**.
 
-    def goals(self):
-        return "Become an AI Engineer specializing in ML, DL, GenAI & CV 🚀"
-
-    def status(self):
-        return "Open to AI/ML Internship Opportunities ✅"
-```
+<br/>
 
 - 🔭 Passionate **AI Student** & **Python Developer**
 - 🌱 Learning **Machine Learning**, **Deep Learning** & **Generative AI**
@@ -211,8 +194,7 @@ A Java-based campus food ordering application where students can browse menus, p
 
 | 🏆 Hackathons | 🌍 Open Source | 🔬 Research | 🥇 Competitions | 💼 Internships |
 |:---:|:---:|:---:|:---:|:---:|
-| Coming Soon 🚧 | Coming Soon 🚧 | Coming Soon 🚧 | Coming Soon 🚧 |  Coming Soon 🚧 | 
-
+| Coming Soon 🚧 | Coming Soon 🚧 | Coming Soon 🚧 | Coming Soon 🚧 | AI Intern @ UBL ✅ |
 
 </div>
 
