@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 📍 Sukkur, Pakistan &nbsp;|&nbsp; 🎓 Aror University of Art, Architecture, Design & Heritage &nbsp;|&nbsp; 💼 AI Intern @ United Bank Limited (UBL)
+### 📍 Sukkur, Pakistan &nbsp;|&nbsp; 🎓 Aror University of Art, Architecture, Design & Heritage &nbsp;|&nbsp;
 
 </div>
 
